@@ -1,7 +1,7 @@
 # MSCI 433 Tutorials
 
 Welcome to the repository of MSCI 433 tutorials.
-This github repository will contain the files used in the tutorials and will be updated regularly.
+This GitHub repository will contain the files used in the tutorials and will be updated regularly.
 Here's the tutorial schedule for the semester:
 
 ```
@@ -34,11 +34,11 @@ Week 13 Thu, Mar 31 - Neural networks in Python
 
 ### Notes
 
-- All of the required packages can be found inside `requirements.txt`, which can be installed by running
+- All the required packages can be found inside `requirements.txt`, which can be installed by running
 `pip install -r requirements.txt` from a command line/powershell window.
 
 - Each tutorial will be self-contained inside a folder, with the necessary datasets.
 
-- Python version shouldn't matter as long as it's 3.x.x, these tutorials are prepared using 3.8 and 3.7.
+- Python version shouldn't matter as long as it's 3.x.x, these tutorials are prepared using 3.9 (mainly), 3.8 and 3.7.
 
 If you have any questions, you can contact [sturhan@uwaterloo.ca](mailto:sturhan@uwaterloo.ca).
